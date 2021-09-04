@@ -70,6 +70,7 @@ p{
 #nav-list li{
 
 	border: 1px solid black;
+	margin-top: 1px;
 	display: block;
 	border-color: black;
 
