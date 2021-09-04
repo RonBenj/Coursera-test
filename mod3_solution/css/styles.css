@@ -39,7 +39,8 @@
 
 
 #nav-list{
-	margin-top:1px;
+
+    margin-top: 0px;
 	text-align: center;
 	background-color: #a2eacb;
 	font-size: 20px;
@@ -63,4 +64,12 @@ p{
 	font-size: 20x;
 	text-align: left;
 	line-height: 2;
+}
+
+#nav-list li{
+
+	border: 1px solid black;
+	display: block;
+	border-color: black;
+
 }
